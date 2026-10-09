@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ttakt.github.io/tasaki-shosaku/sitemap.xml
