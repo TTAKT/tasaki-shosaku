@@ -9,3 +9,4 @@
 | 2026-09-17 | Optimized gallery images for faster loading. / ギャラリー画像を軽量化し、読み込みを高速化。 |
 | 2026-10-05 | Revised wording on the home, biography, and works pages. / トップ・経歴年表・作品目録の文言を見直し。 |
 | 2026-10-27 | Simplified the image note on the works catalog; revised README and changelog. / 作品目録の画像注記を簡潔化。README・更新履歴を整理。 |
+| 2026-11-25 | Added a link to art prints on the home page. / トップページにアートプリントの取扱先へのリンクを追加。 |
